@@ -1,38 +1,140 @@
-.App {
-  text-align: center;
+
+.header {
+  height: 146px;
+  width: 1280px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.buscar-un-producto {
+    height: 27px;
+    width: 202px;
+    color: #1E1E1E;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    line-height: 27px;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .iconos-logo-fizzmod {
+    height: 40px;
+    width: 151px;
   }
-  to {
-    transform: rotate(360deg);
+
+  .rectangle {
+    height: 90px;
+    width: 230px;
+    background-color: #F5F5F5;
   }
-}
+
+  .rectangle-2 {
+    height: 56px;
+    width: 256px;
+    background-color: #1E1E1E;
+  }
+
+  .mi-cuenta {
+    height: 18px;
+    width: 60px;
+    color: #1DB779;
+    font-family: "Open Sans";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 18px;
+    text-align: center;
+  }
+
+  .mis-pedidos {
+    height: 18px;
+    width: 74px;
+    color: #1DB779;
+    font-family: "Open Sans";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 18px;
+    text-align: center;
+  }
+
+  .ayuda {
+    height: 18px;
+    width: 38px;
+    color: #1DB779;
+    font-family: "Open Sans";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 18px;
+    text-align: center;
+  }
+
+  .iconos-icn-search {
+    height: 23px;
+    width: 23px;
+  }
+
+  .line {
+    box-sizing: border-box;
+    height: 3px;
+    width: 1050px;
+    border: 1px solid #D1D3D4;
+  }
+
+  .categoria-nro-1 {
+    height: 20px;
+    width: 210px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .rectangle-copy-1 {
+    height: 56px;
+    width: 256px;
+    background-color: #1DB779;
+  }
+
+  .rectangle-copy-4 {
+    height: 320px;
+    width: 1280px;
+    background-color: #1E1E1E;
+  }
+
+  .group-cart {
+    height: 25px;
+    width: 132px;
+  }
+
+  .rectangle-copy-3 {
+    height: 56px;
+    width: 256px;
+    background-color: #1DB779;
+  }
+  .mi-carrito {
+    height: 20px;
+    width: 89px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+  }
+  .iconos-icn-cart {
+    height: 25px;
+    width: 25px;
+  }
+  .categoria-nro-1 {
+    height: 20px;
+    width: 210px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+  }
+  

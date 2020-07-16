@@ -1,0 +1,65 @@
+.rectangle-copy-4 {
+    max-height: 320px;
+    max-width: 1280px;
+    background-color: #1E1E1E;
+  }
+
+  .footer-links {
+    height: 186px;
+    width: 127px;
+    margin: 0px;
+  }
+
+  .icons {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+  }
+
+  .line-2 {
+    box-sizing: border-box;
+    height: 2px;
+    width: 115px;
+    margin-top: 0px;
+    border: 1px solid #FFFFFF;
+  }
+
+  .pagefooter-1-2 {
+    height: 16px;
+    width: 23px;
+  }
+
+  .pagefooter-1-1 {
+    height: 18px;
+    width: 23px;
+  }
+
+  .pagefooter-1 {
+    height: 23px;
+    width: 11px;
+  }
+
+  .productos {
+    height: 27px;
+    width: 127px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 27px;
+  }
+
+  .compre-junto-kit-loo {
+    height: 137px;
+    width: 127px;
+    color: #FFFFFF;
+    font-family: ".SF NS Display";
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin: 0px;
+    padding: 0px;
+    flex-direction: column;
+    display: flex;
+  }

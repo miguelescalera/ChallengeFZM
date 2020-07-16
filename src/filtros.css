@@ -1,0 +1,51 @@
+.filtros {
+    height: 183px;
+    width: 210px;
+  }
+  .line-3-copy-2 {
+    box-sizing: border-box;
+    height: 2px;
+    width: 210px;
+    border: 2px solid #F5F5F5;
+    margin-top: 0px;
+    margin-block-start: 2%;
+  }
+  .titulo-filtros-nro {
+    height: 24px;
+    width: 151px;
+    color: #1E1E1E;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  .iconos-icn-checkbox-off {
+    height: 14px;
+    width: 14px;
+  }
+  .items-filtros {
+    height: 20px;
+    width: 62px;
+    color: #1E1E1E;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  .combined-shape-copy-2 {
+    height: 14px;
+    width: 14px;
+    background-color: #9B9B9B;
+  }
+  .item-filtro {
+    height: 20px;
+    width: 90px;
+    color: #1E1E1E;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 20px;
+  }

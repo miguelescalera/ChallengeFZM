@@ -1,0 +1,115 @@
+
+.line-3 {
+    box-sizing: border-box;
+    height: 3px;
+    width: 505px;
+    border: 1px solid #9B9B9B;
+  }
+  .line-3-copy {
+    box-sizing: border-box;
+    height: 3px;
+    width: 505px;
+    border: 1px solid #9B9B9B;
+  }
+  .productos-title {
+    height: 49px;
+    width: 183px;
+    color: #1E1E1E;
+    font-family: "Open Sans";
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 49px;
+    text-align: center;
+  }
+  .producto {
+    height: 312px;
+    width: 210px;
+  }
+  .group {
+    height: 210px;
+    width: 210px;
+  }
+  .page-1 {
+    height: 171.9px;
+    width: 171.9px;
+  }
+  .rectangle-4-copy {
+    height: 210px;
+    width: 210px;
+    background-color: #FFFFFF;
+  }
+  .cebolla-allium-cepa {
+    height: 22px;
+    width: 147px;
+    color: #1E1E1E;
+    font-family: "Open Sans";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-align: center;
+  }
+  .regular {
+    height: 18px;
+    width: 37px;
+  }
+  .descuento {
+    height: 24px;
+    width: 51px;
+  }
+  .tachado {
+    height: 18px;
+    width: 37px;
+    color: #9B9B9B;
+    font-family: "Open Sans";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 18px;
+    text-align: center;
+  }
+  .n7-49 {
+    height: 18px;
+    width: 37px;
+    color: #9B9B9B;
+    font-family: "Open Sans";
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 18px;
+    text-align: center;
+  }
+  .porcentaje {
+    height: 20px;
+    width: 36px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+  }
+  .descuento-num {
+    height: 24px;
+    width: 51px;
+    color: #1DB779;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-align: center;
+  }
+  .oval-2 {
+    height: 46px;
+    width: 46px;
+    background-color: #00C4C1;
+    border-radius: 25px;
+  }
+  .cucarda {
+    height: 46px;
+    width: 46px;
+  }
+  .group-4 {
+    height: 46px;
+    width: 46px;
+  }
